@@ -1,5 +1,6 @@
 #include <iostream>
 
+
 // Recursive function to calculate the nth Fibonacci number (exhaustive pattern)
 int fibonacci(int n) {
     if (n <= 1)
